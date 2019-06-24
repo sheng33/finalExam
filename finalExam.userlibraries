@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.google.code.gson:gson:2.6.2">
+    <archive path="G:/SSM lib/com/google/code/gson/gson/2.6.2/gson-2.6.2.jar" />
+  </library>
+  <library name="Maven: org.webjars.npm:popper.js:1.11.1">
+    <archive path="G:/SSM lib/org/webjars/npm/popper.js/1.11.1/popper.js-1.11.1.jar" />
+  </library>
+  <library name="Maven: org.webjars:bootstrap:4.0.0">
+    <archive path="G:/SSM lib/org/webjars/bootstrap/4.0.0/bootstrap-4.0.0.jar" />
+  </library>
+  <library name="Maven: org.webjars:jquery:3.0.0">
+    <archive path="G:/SSM lib/org/webjars/jquery/3.0.0/jquery-3.0.0.jar" />
+  </library>
+  <library name="java" />
+  <library name="queryrunner-1.3.1">
+    <archive path="G:/SSM lib/queryrunner-1.3.1.jar" />
+  </library>
+  <library name="tomcat">
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/el-api.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/ecj-4.10.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jasper-el.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/jaspic-api.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-api.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jni.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ha.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-dbcp.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-jdbc.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-ant.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-coyote.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/websocket-api.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-cs.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-de.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-es.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-fr.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ja.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ko.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-ru.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/annotations-api.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-tribes.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-util-scan.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-websocket.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-pt-BR.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/tomcat-i18n-zh-CN.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/catalina-storeconfig.jar" />
+    <archive path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/mysql-connector-java-8.0.16.jar" />
+  </library>
+</eclipse-userlibraries>
+
