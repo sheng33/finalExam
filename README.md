@@ -1,4 +1,4 @@
-# finalExam
+# finalExam - 公交信息查询系统
 ## 本项目使用idea开发，需导入mavan框架 数据库为Mysql8.0版本
 ---- 
 # 使用指南
